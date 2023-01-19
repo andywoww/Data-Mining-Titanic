@@ -1,0 +1,892 @@
+PassengerId,Survived,Pclass,Title,FirstName,LastName,Sex,Age,SibSp,Parch,Ticket,Fare,Embarked,Ship
+1,0,3,Mr.,Owen,Braund,male,22,1,0,A/5 21171,7.9,S,Titanic
+2,1,1,Mrs.,John,Cumings,female,35,1,0,PC 17599,31.0,C,Titanic
+3,1,3,Miss.,Laina,Heikkinen,female,26,0,0,STON/O2. 3101282,7.92,S,Titanic
+4,1,1,Mrs.,Jacques,Futrelle,female,35,1,0,113803,31.0,S,Titanic
+5,0,3,Mr.,William,Allen,male,35,0,0,373450,8.05,S,Titanic
+6,0,3,Mr.,James,Moran,male,28,0,0,330877,8.46,Q,Titanic
+7,0,1,Mr.,Timothy,McCarthy,male,35,0,0,17463,31.0,S,Titanic
+8,0,3,Master.,Gosta,Palsson,male,22,2,0,349909,21.08,S,Titanic
+9,1,3,Mrs.,Oscar,Johnson,female,27,0,0,347742,11.13,S,Titanic
+10,1,2,Mrs.,Nicholas,Nasser,female,22,1,0,237736,30.07,C,Titanic
+11,1,3,Miss.,Marguerite,Sandstrom,female,22,1,0,PP 9549,16.7,S,Titanic
+12,1,1,Miss.,Elizabeth,Bonnell,female,35,0,0,113783,26.55,S,Titanic
+13,0,3,Mr.,William,Saundercock,male,22,0,0,A/5. 2151,8.05,S,Titanic
+15,0,3,Miss.,Hulda,Vestrom,female,22,0,0,350406,7.9,S,Titanic
+16,1,2,Mrs.,(Mary,Hewlett,female,35,0,0,248706,16.0,S,Titanic
+17,0,3,Master.,Eugene,Rice,male,22,2,0,382652,29.12,Q,Titanic
+18,1,2,Mr.,Charles,Williams,male,28,0,0,244373,13.0,S,Titanic
+19,0,3,"Planke,",Mrs.,Vander,female,31,1,0,345763,18.0,S,Titanic
+20,1,3,Mrs.,Fatima,Masselmani,female,28,0,0,2649,7.9,C,Titanic
+21,0,2,Mr.,Joseph,Fynney,male,35,0,0,239865,26.0,S,Titanic
+22,1,2,Mr.,Lawrence,Beesley,male,34,0,0,248698,13.0,S,Titanic
+23,1,3,Miss.,Anna,McGowan,female,22,0,0,330923,8.03,Q,Titanic
+25,0,3,Miss.,Torborg,Palsson,female,22,2,0,349909,21.08,S,Titanic
+26,1,3,Mrs.,Carl,Asplund,female,35,1,0,347077,31.0,S,Titanic
+27,0,3,Mr.,Farred,Emir,male,28,0,0,2631,7.9,C,Titanic
+28,0,1,Mr.,Charles,Fortune,male,22,2,0,19950,31.0,S,Titanic
+29,1,3,Miss.,Ellen,O'Dwyer,female,28,0,0,330959,7.9,Q,Titanic
+30,0,3,Mr.,Lalio,Todoroff,male,28,0,0,349216,7.9,S,Titanic
+31,0,1,Don.,Manuel,Uruchurtu,male,35,0,0,PC 17601,27.72,C,Titanic
+32,1,1,Mrs.,William,Spencer,female,22,1,0,PC 17569,31.0,C,Titanic
+33,1,3,Miss.,Mary,Glynn,female,28,0,0,335677,7.9,Q,Titanic
+34,0,2,Mr.,Edward,Wheadon,male,35,0,0,C.A. 24579,10.5,S,Titanic
+35,0,1,Mr.,Edgar,Meyer,male,28,1,0,PC 17604,31.0,C,Titanic
+36,0,1,Mr.,Alexander,Holverson,male,35,1,0,113789,31.0,S,Titanic
+37,1,3,Mr.,Hanna,Mamee,male,28,0,0,2677,7.9,C,Titanic
+38,0,3,Mr.,Ernest,Cann,male,22,0,0,A./5. 2152,8.05,S,Titanic
+39,0,3,"Planke,",Miss.,Vander,female,22,2,0,345764,18.0,S,Titanic
+40,1,3,Miss.,Jamila,Nicola-Yarred,female,22,1,0,2651,11.24,C,Titanic
+41,0,3,Mrs.,Johan,Ahlin,female,35,1,0,7546,9.48,S,Titanic
+42,0,2,Mrs.,William,Turpin,female,27,1,0,11668,21.0,S,Titanic
+43,0,3,Mr.,Theodor,Kraeff,male,28,0,0,349253,7.9,C,Titanic
+44,1,2,Miss.,Simonne,Laroche,female,22,1,0,SC/Paris 2123,31.0,C,Titanic
+45,1,3,Miss.,Margaret,Devaney,female,22,0,0,330958,7.9,Q,Titanic
+46,0,3,Mr.,William,Rogers,male,28,0,0,S.C./A.4. 23567,8.05,S,Titanic
+47,0,3,Mr.,Denis,Lennon,male,28,1,0,370371,15.5,Q,Titanic
+48,1,3,Miss.,Bridget,O'Driscoll,female,28,0,0,14311,7.9,Q,Titanic
+49,0,3,Mr.,Youssef,Samaan,male,28,2,0,2662,21.68,C,Titanic
+50,0,3,Mrs.,Josef,Arnold-Franchi,female,22,1,0,349237,17.8,S,Titanic
+51,0,3,Master.,Juha,Panula,male,22,2,0,3101295,31.0,S,Titanic
+52,0,3,Mr.,Richard,Nosworthy,male,22,0,0,A/4. 39886,7.9,S,Titanic
+53,1,1,Mrs.,Henry,Harper,female,35,1,0,PC 17572,31.0,C,Titanic
+54,1,2,Mrs.,Lizzie,Faunthorpe,female,29,1,0,2926,26.0,S,Titanic
+55,0,1,Mr.,Engelhart,Ostby,male,35,0,0,113509,31.0,C,Titanic
+56,1,1,Mr.,Hugh,Woolner,male,28,0,0,19947,31.0,S,Titanic
+57,1,2,Miss.,Emily,Rugg,female,22,0,0,C.A. 31026,10.5,S,Titanic
+58,0,3,Mr.,Mansouer,Novel,male,28,0,0,2697,7.9,C,Titanic
+59,1,2,Miss.,Constance,West,female,22,1,0,C.A. 34651,27.75,S,Titanic
+60,0,3,Master.,William,Goodwin,male,22,2,0,CA 2144,31.0,S,Titanic
+61,0,3,Mr.,Orsen,Sirayanian,male,22,0,0,2669,7.9,C,Titanic
+62,1,1,Miss.,Amelie,Icard,female,35,0,0,113572,31.0,S,Titanic
+63,0,1,Mr.,Henry,Harris,male,35,1,0,36973,31.0,S,Titanic
+64,0,3,Master.,Harald,Skoog,male,22,2,0,347088,27.9,S,Titanic
+65,0,1,Mr.,Albert,Stewart,male,28,0,0,PC 17605,27.72,C,Titanic
+66,1,3,Master.,Gerios,Moubarek,male,28,1,0,2661,15.25,C,Titanic
+67,1,2,Mrs.,(Elizabeth,Nye,female,29,0,0,C.A. 29395,10.5,S,Titanic
+68,0,3,Mr.,Ernest,Crease,male,22,0,0,S.P. 3464,8.16,S,Titanic
+69,1,3,Miss.,Erna,Andersson,female,22,2,0,3101281,7.92,S,Titanic
+70,0,3,Mr.,Vincenz,Kink,male,26,2,0,315151,8.66,S,Titanic
+71,0,2,Mr.,Stephen,Jenkin,male,32,0,0,C.A. 33111,10.5,S,Titanic
+72,0,3,Miss.,Lillian,Goodwin,female,22,2,0,CA 2144,31.0,S,Titanic
+73,0,2,Mr.,Ambrose,Hood,male,22,0,0,S.O.C. 14879,31.0,S,Titanic
+74,0,3,Mr.,Apostolos,Chronopoulos,male,26,1,0,2680,14.45,C,Titanic
+75,1,3,Mr.,Lee,Bing,male,32,0,0,1601,31.0,S,Titanic
+76,0,3,Mr.,Sigurd,Moen,male,25,0,0,348123,7.9,S,Titanic
+77,0,3,Mr.,Ivan,Staneff,male,28,0,0,349208,7.9,S,Titanic
+78,0,3,Mr.,Rahamin,Moutal,male,28,0,0,374746,8.05,S,Titanic
+79,1,2,Master.,Alden,Caldwell,male,28,0,0,248738,29.0,S,Titanic
+80,1,3,Miss.,Elizabeth,Dowdell,female,30,0,0,364516,12.48,S,Titanic
+81,0,3,Mr.,Achille,Waelens,male,22,0,0,345767,9.0,S,Titanic
+82,1,3,Mr.,Jan,Sheerlinck,male,29,0,0,345779,9.5,S,Titanic
+83,1,3,Miss.,Brigdet,McDermott,female,28,0,0,330932,7.9,Q,Titanic
+84,0,1,Mr.,Francisco,Carrau,male,28,0,0,113059,31.0,S,Titanic
+85,1,2,Miss.,Bertha,Ilett,female,22,0,0,SO/C 14885,10.5,S,Titanic
+86,1,3,Mrs.,Karl,Backstrom,female,33,2,0,3101278,15.85,S,Titanic
+87,0,3,Mr.,William,Ford,male,22,1,0,W./C. 6608,31.0,S,Titanic
+88,0,3,Mr.,Selman,Slocovski,male,28,0,0,SOTON/OQ 392086,8.05,S,Titanic
+89,1,1,Miss.,Mabel,Fortune,female,23,2,0,19950,31.0,S,Titanic
+90,0,3,Mr.,Francesco,Celotti,male,24,0,0,343275,8.05,S,Titanic
+91,0,3,Mr.,Emil,Christmann,male,29,0,0,343276,8.05,S,Titanic
+92,0,3,Mr.,Paul,Andreasson,male,22,0,0,347466,7.9,S,Titanic
+93,0,1,Mr.,Herbert,Chaffee,male,35,1,0,W.E.P. 5734,31.0,S,Titanic
+94,0,3,Mr.,Bertram,Dean,male,26,1,0,C.A. 2315,20.58,S,Titanic
+95,0,3,Mr.,Daniel,Coxon,male,35,0,0,364500,7.9,S,Titanic
+96,0,3,Mr.,Charles,Shorney,male,28,0,0,374910,8.05,S,Titanic
+97,0,1,Mr.,George,Goldschmidt,male,35,0,0,PC 17754,31.0,C,Titanic
+98,1,1,Mr.,William,Greenfield,male,23,0,0,PC 17759,31.0,C,Titanic
+99,1,2,Mrs.,John,Doling,female,34,0,0,231919,23.0,S,Titanic
+100,0,2,Mr.,Sinai,Kantor,male,34,1,0,244367,26.0,S,Titanic
+101,0,3,Miss.,Matilda,Petranec,female,28,0,0,349245,7.9,S,Titanic
+102,0,3,Mr.,Pastcho,Petroff,male,28,0,0,349215,7.9,S,Titanic
+103,0,1,Mr.,Richard,White,male,22,0,0,35281,31.0,S,Titanic
+104,0,3,Mr.,Gustaf,Johansson,male,33,0,0,7540,8.65,S,Titanic
+105,0,3,Mr.,Anders,Gustafsson,male,35,2,0,3101276,7.92,S,Titanic
+106,0,3,Mr.,Stoytcho,Mionoff,male,28,0,0,349207,7.9,S,Titanic
+107,1,3,Miss.,Anna,Salkjelsvik,female,22,0,0,343120,7.9,S,Titanic
+108,1,3,Mr.,Albert,Moss,male,28,0,0,312991,7.9,S,Titanic
+109,0,3,Mr.,Tido,Rekic,male,35,0,0,349249,7.9,S,Titanic
+110,1,3,Miss.,Bertha,Moran,female,28,1,0,371110,24.15,Q,Titanic
+111,0,1,Mr.,Walter,Porter,male,35,0,0,110465,31.0,S,Titanic
+112,0,3,Miss.,Hileni,Zabour,female,28,1,0,2665,14.45,C,Titanic
+113,0,3,Mr.,David,Barton,male,22,0,0,324669,8.05,S,Titanic
+114,0,3,Miss.,Katriina,Jussila,female,22,1,0,4136,9.82,S,Titanic
+115,0,3,Miss.,Malake,Attalah,female,22,0,0,2627,14.46,C,Titanic
+116,0,3,Mr.,Edvard,Pekoniemi,male,22,0,0,STON/O 2. 3101294,7.92,S,Titanic
+117,0,3,Mr.,Patrick,Connors,male,28,0,0,370369,7.9,Q,Titanic
+118,0,2,Mr.,William,Turpin,male,29,1,0,11668,21.0,S,Titanic
+119,0,1,Mr.,Quigg,Baxter,male,24,0,0,PC 17558,31.0,C,Titanic
+120,0,3,Miss.,Ellis,Andersson,female,22,2,0,347082,31.0,S,Titanic
+121,0,2,Mr.,Stanley,Hickman,male,22,2,0,S.O.C. 14879,31.0,S,Titanic
+122,0,3,Mr.,Leonard,Moore,male,28,0,0,A4. 54510,8.05,S,Titanic
+123,0,2,Mr.,Nicholas,Nasser,male,28,1,0,237736,30.07,C,Titanic
+124,1,2,Miss.,Susan,Webber,female,28,0,0,27267,13.0,S,Titanic
+125,0,1,Mr.,Percival,White,male,35,0,0,35281,31.0,S,Titanic
+126,1,3,Master.,Elias,Nicola-Yarred,male,22,1,0,2651,11.24,C,Titanic
+127,0,3,Mr.,Martin,McMahon,male,28,0,0,370372,7.9,Q,Titanic
+128,1,3,Mr.,Fridtjof,Madsen,male,24,0,0,C 17369,7.9,S,Titanic
+129,1,3,Miss.,Anna,Peter,female,28,1,0,2668,22.36,C,Titanic
+130,0,3,Mr.,Johan,Ekstrom,male,35,0,0,347061,7.9,S,Titanic
+131,0,3,Mr.,Jozef,Drazenoic,male,33,0,0,349241,7.9,C,Titanic
+132,0,3,Mr.,Domingos,Coelho,male,22,0,0,SOTON/O.Q. 3101307,7.9,S,Titanic
+133,0,3,Mrs.,Alexander,Robins,female,35,1,0,A/5. 3337,14.5,S,Titanic
+134,1,2,Mrs.,Leopold,Weisz,female,29,1,0,228414,26.0,S,Titanic
+135,0,2,Mr.,Samuel,Sobey,male,25,0,0,C.A. 29178,13.0,S,Titanic
+136,0,2,Mr.,Emile,Richard,male,23,0,0,SC/PARIS 2133,15.05,C,Titanic
+137,1,1,Miss.,Helen,Newsom,female,22,0,0,11752,26.28,S,Titanic
+138,0,1,Mr.,Jacques,Futrelle,male,35,1,0,113803,31.0,S,Titanic
+139,0,3,Mr.,Olaf,Osen,male,22,0,0,7534,9.22,S,Titanic
+140,0,1,Mr.,Victor,Giglio,male,24,0,0,PC 17593,31.0,C,Titanic
+141,0,3,Mrs.,Joseph,Boulos,female,28,0,0,2678,15.25,C,Titanic
+142,1,3,Miss.,Anna,Nysten,female,22,0,0,347081,7.9,S,Titanic
+143,1,3,Mrs.,Pekka,Hakkarainen,female,24,1,0,STON/O2. 3101279,15.85,S,Titanic
+144,0,3,Mr.,Jeremiah,Burke,male,22,0,0,365222,7.9,Q,Titanic
+145,0,2,Mr.,Edgardo,Andrew,male,22,0,0,231945,11.5,S,Titanic
+146,0,2,Mr.,Joseph,Nicholls,male,22,1,0,C.A. 33112,31.0,S,Titanic
+147,1,3,Mr.,August,Andersson,male,27,0,0,350043,7.9,S,Titanic
+148,0,3,Miss.,Robina,Ford,female,22,2,0,W./C. 6608,31.0,S,Titanic
+149,0,2,Mr.,Michel,Navratil,male,28,0,0,230080,26.0,S,Titanic
+150,0,2,Rev.,Thomas,Byles,male,35,0,0,244310,13.0,S,Titanic
+151,0,2,Rev.,Robert,Bateman,male,35,0,0,S.O.P. 1166,12.52,S,Titanic
+152,1,1,Mrs.,Thomas,Pears,female,22,1,0,113776,31.0,S,Titanic
+153,0,3,Mr.,Alfonzo,Meo,male,28,0,0,A.5. 11206,8.05,S,Titanic
+154,0,3,"Billiard,",Mr.,van,male,28,0,0,A/5. 851,14.5,S,Titanic
+155,0,3,Mr.,Ole,Olsen,male,28,0,0,Fa 265302,7.9,S,Titanic
+156,0,1,Mr.,Charles,Williams,male,35,0,0,PC 17597,31.0,C,Titanic
+157,1,3,Miss.,Katherine,Gilnagh,female,22,0,0,35851,7.9,Q,Titanic
+158,0,3,Mr.,Harry,Corn,male,30,0,0,SOTON/OQ 392090,8.05,S,Titanic
+159,0,3,Mr.,Mile,Smiljanic,male,28,0,0,315037,8.66,S,Titanic
+160,0,3,Master.,Thomas,Sage,male,28,2,0,CA. 2343,31.0,S,Titanic
+161,0,3,Mr.,John,Cribb,male,35,0,0,371362,16.1,S,Titanic
+162,1,2,Mrs.,James,Watt,female,35,0,0,C.A. 33595,15.75,S,Titanic
+163,0,3,Mr.,John,Bengtsson,male,26,0,0,347068,7.9,S,Titanic
+164,0,3,Mr.,Jovo,Calic,male,22,0,0,315093,8.66,S,Titanic
+165,0,3,Master.,Eino,Panula,male,22,2,0,3101295,31.0,S,Titanic
+166,1,3,Master.,Frank,Goldsmith,male,22,0,0,363291,20.52,S,Titanic
+167,1,1,Mrs.,(Edith,Chibnall,female,28,0,0,113505,31.0,S,Titanic
+168,0,3,Mrs.,William,Skoog,female,35,1,0,347088,27.9,S,Titanic
+169,0,1,Mr.,John,Baumann,male,28,0,0,PC 17318,25.92,S,Titanic
+170,0,3,Mr.,Lee,Ling,male,28,0,0,1601,31.0,S,Titanic
+171,0,1,der,"hoef,",Van,male,35,0,0,111240,31.0,S,Titanic
+172,0,3,Master.,Arthur,Rice,male,22,2,0,382652,29.12,Q,Titanic
+173,1,3,Miss.,Eleanor,Johnson,female,22,1,0,347742,11.13,S,Titanic
+174,0,3,Mr.,Antti,Sivola,male,22,0,0,STON/O 2. 3101280,7.92,S,Titanic
+175,0,1,Mr.,James,Smith,male,35,0,0,17764,30.7,C,Titanic
+176,0,3,Mr.,Klas,Klasen,male,22,1,0,350404,7.9,S,Titanic
+177,0,3,Master.,Henry,Lefebre,male,28,2,0,4133,25.47,S,Titanic
+178,0,1,Miss.,Ann,Isham,female,35,0,0,PC 17595,28.71,C,Titanic
+179,0,2,Mr.,Reginald,Hale,male,30,0,0,250653,13.0,S,Titanic
+180,0,3,Mr.,Lionel,Leonard,male,35,0,0,LINE,7.9,S,Titanic
+181,0,3,Miss.,Constance,Sage,female,28,2,0,CA. 2343,31.0,S,Titanic
+182,0,2,Mr.,Rene,Pernot,male,28,0,0,SC/PARIS 2131,15.05,C,Titanic
+183,0,3,Master.,Clarence,Asplund,male,22,2,0,347077,31.0,S,Titanic
+184,1,2,Master.,Richard,Becker,male,22,2,0,230136,31.0,S,Titanic
+185,1,3,Miss.,Luise,Kink-Heilmann,female,22,0,0,315153,22.02,S,Titanic
+186,0,1,Mr.,Hugh,Rood,male,28,0,0,113767,31.0,S,Titanic
+187,1,3,Mrs.,Thomas,O'Brien,female,28,1,0,370365,15.5,Q,Titanic
+188,1,1,Mr.,Charles,Romaine,male,35,0,0,111428,26.55,S,Titanic
+189,0,3,Mr.,John,Bourke,male,35,1,0,364849,15.5,Q,Titanic
+190,0,3,Mr.,Stjepan,Turcin,male,35,0,0,349247,7.9,S,Titanic
+191,1,2,Mrs.,(Rosa),Pinsky,female,32,0,0,234604,13.0,S,Titanic
+192,0,2,Mr.,William,Carbines,male,22,0,0,28424,13.0,S,Titanic
+193,1,3,Miss.,Carla,Andersen-Jensen,female,22,1,0,350046,7.9,S,Titanic
+194,1,2,Master.,Michel,Navratil,male,22,1,0,230080,26.0,S,Titanic
+195,1,1,Mrs.,James,Brown,female,35,0,0,PC 17610,27.72,C,Titanic
+196,1,1,Miss.,Elise,Lurette,female,35,0,0,PC 17569,31.0,C,Titanic
+197,0,3,Mr.,Robert,Mernagh,male,28,0,0,368703,7.9,Q,Titanic
+198,0,3,Mr.,Karl,Olsen,male,35,0,0,4579,8.4,S,Titanic
+199,1,3,Miss.,Margaret,Madigan,female,28,0,0,370370,7.9,Q,Titanic
+200,0,2,Miss.,Henriette,Yrois,female,24,0,0,248747,13.0,S,Titanic
+201,0,3,"Walle,",Mr.,Vande,male,28,0,0,345770,9.5,S,Titanic
+202,0,3,Mr.,Frederick,Sage,male,28,2,0,CA. 2343,31.0,S,Titanic
+203,0,3,Mr.,Jakob,Johanson,male,34,0,0,3101264,7.9,S,Titanic
+204,0,3,Mr.,Gerious,Youseff,male,28,0,0,2628,7.9,C,Titanic
+205,1,3,Mr.,Gurshon,Cohen,male,22,0,0,A/5 3540,8.05,S,Titanic
+206,0,3,Miss.,Telma,Strom,female,22,0,0,347054,10.46,S,Titanic
+207,0,3,Mr.,Karl,Backstrom,male,32,1,0,3101278,15.85,S,Titanic
+208,1,3,Mr.,Nassef,Albimona,male,26,0,0,2699,18.79,C,Titanic
+209,1,3,Miss.,Helen,Carr,female,22,0,0,367231,7.9,Q,Titanic
+210,1,1,Mr.,Henry,Blank,male,35,0,0,112277,31.0,C,Titanic
+211,0,3,Mr.,Ahmed,Ali,male,24,0,0,SOTON/O.Q. 3101311,7.9,S,Titanic
+212,1,2,Miss.,Clear,Cameron,female,35,0,0,F.C.C. 13528,21.0,S,Titanic
+213,0,3,Mr.,John,Perkin,male,22,0,0,A/5 21174,7.9,S,Titanic
+214,0,2,Mr.,Hans,Givard,male,30,0,0,250646,13.0,S,Titanic
+215,0,3,Mr.,Philip,Kiernan,male,28,1,0,367229,7.9,Q,Titanic
+216,1,1,Miss.,Madeleine,Newell,female,31,1,0,35273,31.0,C,Titanic
+217,1,3,Miss.,Eliina,Honkanen,female,27,0,0,STON/O2. 3101283,7.92,S,Titanic
+218,0,2,Mr.,Sidney,Jacobsohn,male,35,1,0,243847,27.0,S,Titanic
+219,1,1,Miss.,Albina,Bazzani,female,32,0,0,11813,31.0,C,Titanic
+220,0,2,Mr.,Walter,Harris,male,30,0,0,W/C 14208,10.5,S,Titanic
+221,1,3,Mr.,Victor,Sunderland,male,22,0,0,SOTON/OQ 392089,8.05,S,Titanic
+222,0,2,Mr.,James,Bracken,male,27,0,0,220367,13.0,S,Titanic
+223,0,3,Mr.,George,Green,male,35,0,0,21440,8.05,S,Titanic
+224,0,3,Mr.,Christo,Nenkoff,male,35,0,0,349234,7.9,S,Titanic
+225,1,1,Mr.,Frederick,Hoyt,male,35,1,0,19943,31.0,S,Titanic
+226,0,3,Mr.,Karl,Berglund,male,22,0,0,PP 4348,9.35,S,Titanic
+227,1,2,Mr.,William,Mellors,male,22,0,0,SW/PP 751,10.5,S,Titanic
+228,0,3,Mr.,John,Lovell,male,28,0,0,A/5 21173,7.9,S,Titanic
+229,0,2,Mr.,Arne,Fahlstrom,male,22,0,0,236171,13.0,S,Titanic
+230,0,3,Miss.,Mathilde,Lefebre,female,28,2,0,4133,25.47,S,Titanic
+231,1,1,Mrs.,Henry,Harris,female,35,1,0,36973,31.0,S,Titanic
+232,0,3,Mr.,Bengt,Larsson,male,29,0,0,347067,7.9,S,Titanic
+233,0,2,Mr.,Ernst,Sjostedt,male,35,0,0,237442,13.5,S,Titanic
+234,1,3,Miss.,Lillian,Asplund,female,22,2,0,347077,31.0,S,Titanic
+235,0,2,Mr.,Robert,Leyson,male,24,0,0,C.A. 29566,10.5,S,Titanic
+236,0,3,Miss.,Alice,Harknett,female,28,0,0,W./C. 6609,7.9,S,Titanic
+237,0,2,Mr.,Stephen,Hold,male,35,1,0,26707,26.0,S,Titanic
+238,1,2,Miss.,Marjorie,Collyer,female,22,0,0,C.A. 31921,26.25,S,Titanic
+239,0,2,Mr.,Frederick,Pengelly,male,22,0,0,28665,10.5,S,Titanic
+240,0,2,Mr.,George,Hunt,male,33,0,0,SCO/W 1585,12.28,S,Titanic
+241,0,3,Miss.,Thamine,Zabour,female,28,1,0,2665,14.45,C,Titanic
+242,1,3,Miss.,Katherine,Murphy,female,28,1,0,367230,15.5,Q,Titanic
+243,0,2,Mr.,Reginald,Coleridge,male,29,0,0,W./C. 14263,10.5,S,Titanic
+244,0,3,Mr.,Matti,Maenpaa,male,22,0,0,STON/O 2. 3101275,7.9,S,Titanic
+245,0,3,Mr.,Sleiman,Attalah,male,30,0,0,2694,7.9,C,Titanic
+246,0,1,Dr.,William,Minahan,male,35,2,0,19928,7.9,Q,Titanic
+247,0,3,Miss.,Agda,Lindahl,female,25,0,0,347071,7.9,S,Titanic
+248,1,2,Mrs.,William,Hamalainen,female,24,0,0,250649,14.5,S,Titanic
+249,1,1,Mr.,Richard,Beckwith,male,35,1,0,11751,31.0,S,Titanic
+250,0,2,Rev.,Ernest,Carter,male,35,1,0,244252,26.0,S,Titanic
+251,0,3,Mr.,James,Reed,male,28,0,0,362316,7.9,S,Titanic
+252,0,3,Mrs.,Wilhelm,Strom,female,29,1,0,347054,10.46,S,Titanic
+253,0,1,Mr.,William,Stead,male,35,0,0,113514,26.55,S,Titanic
+254,0,3,Mr.,William,Lobb,male,30,1,0,A/5. 3336,16.1,S,Titanic
+255,0,3,Mrs.,Viktor,Rosblom,female,35,0,0,370129,20.21,S,Titanic
+256,1,3,Mrs.,Darwis,Touma,female,29,0,0,2650,15.25,C,Titanic
+257,1,1,Mrs.,Gertrude,Thorne,female,28,0,0,PC 17585,31.0,C,Titanic
+258,1,1,Miss.,Gladys,Cherry,female,30,0,0,110152,31.0,S,Titanic
+259,1,1,Miss.,Anna,Ward,female,35,0,0,PC 17755,31.0,C,Titanic
+260,1,2,Mrs.,(Lutie,Parrish,female,35,0,0,230433,26.0,S,Titanic
+261,0,3,Mr.,Thomas,Smith,male,28,0,0,384461,7.9,Q,Titanic
+262,1,3,Master.,Edvin,Asplund,male,22,2,0,347077,31.0,S,Titanic
+263,0,1,Mr.,Emil,Taussig,male,35,1,0,110413,31.0,S,Titanic
+264,0,1,Mr.,William,Harrison,male,35,0,0,112059,7.9,S,Titanic
+265,0,3,Miss.,Delia,Henry,female,28,0,0,382649,7.9,Q,Titanic
+266,0,2,Mr.,David,Reeves,male,35,0,0,C.A. 17248,10.5,S,Titanic
+267,0,3,Mr.,Ernesti,Panula,male,22,2,0,3101295,31.0,S,Titanic
+268,1,3,Mr.,Ernst,Persson,male,25,1,0,347083,7.9,S,Titanic
+269,1,1,Mrs.,William,Graham,female,35,0,0,PC 17582,31.0,S,Titanic
+270,1,1,Miss.,Amelia,Bissette,female,35,0,0,PC 17760,31.0,S,Titanic
+271,0,1,Mr.,Alexander,Cairns,male,28,0,0,113798,31.0,S,Titanic
+272,1,3,Mr.,William,Tornquist,male,25,0,0,LINE,7.9,S,Titanic
+273,1,2,Mrs.,(Elizabeth,Mellinger,female,35,0,0,250644,19.5,S,Titanic
+274,0,1,Mr.,Charles,Natsch,male,35,0,0,PC 17596,29.7,C,Titanic
+275,1,3,Miss.,Hanora,Healy,female,28,0,0,370375,7.9,Q,Titanic
+276,1,1,Miss.,Kornelia,Andrews,female,35,1,0,13502,31.0,S,Titanic
+277,0,3,Miss.,Augusta,Lindblom,female,35,0,0,347073,7.9,S,Titanic
+278,0,2,Mr.,Francis,Parkes,male,28,0,0,239853,7.9,S,Titanic
+279,0,3,Master.,Eric,Rice,male,22,2,0,382652,29.12,Q,Titanic
+280,1,3,Mrs.,Stanton,Abbott,female,35,1,0,C.A. 2673,20.25,S,Titanic
+281,0,3,Mr.,Frank,Duane,male,35,0,0,336439,7.9,Q,Titanic
+282,0,3,Mr.,Nils,Olsson,male,28,0,0,347464,7.9,S,Titanic
+283,0,3,"Pelsmaeker,",Mr.,de,male,22,0,0,345778,9.5,S,Titanic
+284,1,3,Mr.,Edward,Dorking,male,22,0,0,A/5. 10482,8.05,S,Titanic
+285,0,1,Mr.,Richard,Smith,male,28,0,0,113056,26.0,S,Titanic
+286,0,3,Mr.,Ivan,Stankovic,male,33,0,0,349239,8.66,C,Titanic
+287,1,3,"Mulder,",Mr.,de,male,30,0,0,345774,9.5,S,Titanic
+288,0,3,Mr.,Penko,Naidenoff,male,22,0,0,349206,7.9,S,Titanic
+289,1,2,Mr.,Masabumi,Hosono,male,35,0,0,237798,13.0,S,Titanic
+290,1,3,Miss.,Kate,Connolly,female,22,0,0,370373,7.9,Q,Titanic
+291,1,1,Miss.,Ellen,Barber,female,26,0,0,19877,31.0,S,Titanic
+292,1,1,Mrs.,Dickinson,Bishop,female,22,1,0,11967,31.0,C,Titanic
+293,0,2,Mr.,Rene,Levy,male,35,0,0,SC/Paris 2163,12.88,C,Titanic
+294,0,3,Miss.,Aloisia,Haas,female,24,0,0,349236,8.85,S,Titanic
+295,0,3,Mr.,Ivan,Mineff,male,24,0,0,349233,7.9,S,Titanic
+296,0,1,Mr.,Ervin,Lewy,male,28,0,0,PC 17612,27.72,C,Titanic
+297,0,3,Mr.,Mansour,Hanna,male,28,0,0,2693,7.9,C,Titanic
+298,0,1,Miss.,Helen,Allison,female,22,1,0,113781,31.0,S,Titanic
+299,1,1,Mr.,Adolphe,Saalfeld,male,28,0,0,19988,30.5,S,Titanic
+300,1,1,Mrs.,James,Baxter,female,35,0,0,PC 17558,31.0,C,Titanic
+301,1,3,Miss.,Anna,Kelly,female,28,0,0,9234,7.9,Q,Titanic
+302,1,3,Mr.,Bernard,McCoy,male,28,2,0,367226,23.25,Q,Titanic
+303,0,3,Mr.,William,Johnson,male,22,0,0,LINE,7.9,S,Titanic
+304,1,2,Miss.,Nora,Keane,female,28,0,0,226593,12.35,Q,Titanic
+305,0,3,Mr.,Howard,Williams,male,28,0,0,A/5 2466,8.05,S,Titanic
+306,1,1,Master.,Hudson,Allison,male,28,1,0,113781,31.0,S,Titanic
+307,1,1,Miss.,Margaret,Fleming,female,28,0,0,17421,31.0,C,Titanic
+308,1,1,y,"Castellana,",Penasco,female,22,1,0,PC 17758,31.0,C,Titanic
+309,0,2,Mr.,Samuel,Abelson,male,30,1,0,P/PP 3381,24.0,C,Titanic
+310,1,1,Miss.,Laura,Francatelli,female,30,0,0,PC 17485,31.0,C,Titanic
+311,1,1,Miss.,Margaret,Hays,female,24,0,0,11767,31.0,C,Titanic
+312,1,1,Miss.,Emily,Ryerson,female,22,2,0,PC 17608,31.0,C,Titanic
+313,0,2,Mrs.,William,Lahtinen,female,26,1,0,250651,26.0,S,Titanic
+314,0,3,Mr.,Ignjac,Hendekovic,male,28,0,0,349243,7.9,S,Titanic
+315,0,2,Mr.,Benjamin,Hart,male,35,1,0,F.C.C. 13529,26.25,S,Titanic
+316,1,3,Miss.,Helmina,Nilsson,female,26,0,0,347470,7.9,S,Titanic
+317,1,2,Mrs.,Sinai,Kantor,female,24,1,0,244367,26.0,S,Titanic
+318,0,2,Dr.,Ernest,Moraweck,male,35,0,0,29011,14.0,S,Titanic
+319,1,1,Miss.,Mary,Wick,female,31,0,0,36928,31.0,S,Titanic
+320,1,1,Mrs.,Frederic,Spedden,female,35,1,0,16966,31.0,C,Titanic
+321,0,3,Mr.,Samuel,Dennis,male,22,0,0,A/5 21172,7.9,S,Titanic
+322,0,3,Mr.,Yoto,Danoff,male,27,0,0,349219,7.9,S,Titanic
+323,1,2,Miss.,Hilda,Slayter,female,30,0,0,234818,12.35,Q,Titanic
+324,1,2,Mrs.,Albert,Caldwell,female,22,1,0,248738,29.0,S,Titanic
+325,0,3,Mr.,George,Sage,male,28,2,0,CA. 2343,31.0,S,Titanic
+326,1,1,Miss.,Marie,Young,female,35,0,0,PC 17760,31.0,C,Titanic
+327,0,3,Mr.,Johan,Nysveen,male,35,0,0,345364,7.9,S,Titanic
+328,1,2,Mrs.,(Ada,Ball,female,35,0,0,28551,13.0,S,Titanic
+329,1,3,Mrs.,Frank,Goldsmith,female,31,1,0,363291,20.52,S,Titanic
+330,1,1,Miss.,Jean,Hippach,female,22,0,0,111361,31.0,C,Titanic
+331,1,3,Miss.,Agnes,McCoy,female,28,2,0,367226,23.25,Q,Titanic
+332,0,1,Mr.,Austen,Partner,male,28,0,0,113043,28.5,S,Titanic
+333,0,1,Mr.,George,Graham,male,35,0,0,PC 17582,31.0,S,Titanic
+334,0,3,"Planke,",Mr.,Vander,male,22,2,0,345764,18.0,S,Titanic
+335,1,1,Mrs.,Henry,Frauenthal,female,28,1,0,PC 17611,31.0,S,Titanic
+336,0,3,Mr.,Mitto,Denkoff,male,28,0,0,349225,7.9,S,Titanic
+337,0,1,Mr.,Thomas,Pears,male,29,1,0,113776,31.0,S,Titanic
+338,1,1,Miss.,Elizabeth,Burns,female,35,0,0,16966,31.0,C,Titanic
+339,1,3,Mr.,Karl,Dahl,male,35,0,0,7598,8.05,S,Titanic
+340,0,1,Mr.,Stephen,Blackwell,male,35,0,0,113784,31.0,S,Titanic
+341,1,2,Master.,Edmond,Navratil,male,22,1,0,230080,26.0,S,Titanic
+342,1,1,Miss.,Alice,Fortune,female,24,2,0,19950,31.0,S,Titanic
+343,0,2,Mr.,Erik,Collander,male,28,0,0,248740,13.0,S,Titanic
+344,0,2,Mr.,Charles,Sedgwick,male,25,0,0,244361,13.0,S,Titanic
+345,0,2,Mr.,Stanley,Fox,male,35,0,0,229236,13.0,S,Titanic
+346,1,2,Miss.,Amelia,Brown,female,24,0,0,248733,13.0,S,Titanic
+347,1,2,Miss.,Marion,Smith,female,35,0,0,31418,13.0,S,Titanic
+348,1,3,Mrs.,Thomas,Davison,female,28,1,0,386525,16.1,S,Titanic
+349,1,3,Master.,William,Coutts,male,22,1,0,C.A. 37671,15.9,S,Titanic
+350,0,3,Mr.,Jovan,Dimic,male,35,0,0,315088,8.66,S,Titanic
+351,0,3,Mr.,Nils,Odahl,male,23,0,0,7267,9.22,S,Titanic
+352,0,1,Mr.,Fletcher,Williams-Lambert,male,28,0,0,113510,31.0,S,Titanic
+353,0,3,Mr.,Tannous,Elias,male,22,1,0,2695,7.9,C,Titanic
+354,0,3,Mr.,Josef,Arnold-Franchi,male,25,1,0,349237,17.8,S,Titanic
+355,0,3,Mr.,Wazli,Yousif,male,28,0,0,2647,7.9,C,Titanic
+356,0,3,"Steen,",Mr.,Vanden,male,28,0,0,345783,9.5,S,Titanic
+357,1,1,Miss.,Elsie,Bowerman,female,22,0,0,113505,31.0,S,Titanic
+358,0,2,Miss.,Annie,Funk,female,35,0,0,237671,13.0,S,Titanic
+359,1,3,Miss.,Mary,McGovern,female,28,0,0,330931,7.9,Q,Titanic
+360,1,3,Miss.,Helen,Mockler,female,28,0,0,330980,7.9,Q,Titanic
+361,0,3,Mr.,Wilhelm,Skoog,male,35,1,0,347088,27.9,S,Titanic
+362,0,2,"Carlo,",Mr.,del,male,29,1,0,SC/PARIS 2167,27.72,C,Titanic
+363,0,3,Mrs.,(Catherine,Barbara,female,35,0,0,2691,14.45,C,Titanic
+364,0,3,Mr.,Adola,Asim,male,35,0,0,SOTON/O.Q. 3101310,31.0,S,Titanic
+365,0,3,Mr.,Thomas,O'Brien,male,28,1,0,370365,15.5,Q,Titanic
+366,0,3,Mr.,Mauritz,Adahl,male,30,0,0,C 7076,7.9,S,Titanic
+367,1,1,Mrs.,Frank,Warren,female,35,1,0,110813,31.0,C,Titanic
+368,1,3,Mrs.,(Mantoura,Moussa,female,28,0,0,2626,7.9,C,Titanic
+369,1,3,Miss.,Annie,Jermyn,female,28,0,0,14313,7.9,Q,Titanic
+370,1,1,Mme.,Leontine,Aubart,female,24,0,0,PC 17477,31.0,C,Titanic
+371,1,1,Mr.,George,Harder,male,25,1,0,11765,31.0,C,Titanic
+372,0,3,Mr.,Jakob,Wiklund,male,22,1,0,3101267,7.9,S,Titanic
+373,0,3,Mr.,William,Beavan,male,22,0,0,323951,8.05,S,Titanic
+374,0,1,Mr.,Sante,Ringhini,male,22,0,0,PC 17760,31.0,C,Titanic
+375,0,3,Miss.,Stina,Palsson,female,22,2,0,349909,21.08,S,Titanic
+376,1,1,Mrs.,Edgar,Meyer,female,28,1,0,PC 17604,31.0,C,Titanic
+377,1,3,Miss.,Aurora,Landergren,female,22,0,0,C 7077,7.9,S,Titanic
+378,0,1,Mr.,Harry,Widener,male,27,0,0,113503,31.0,C,Titanic
+379,0,3,Mr.,Tannous,Betros,male,22,0,0,2648,7.9,C,Titanic
+380,0,3,Mr.,Karl,Gustafsson,male,22,0,0,347069,7.9,S,Titanic
+381,1,1,Miss.,Rosalie,Bidois,female,35,0,0,PC 17757,31.0,C,Titanic
+382,1,3,Miss.,Maria,Nakid,female,22,0,0,2653,15.74,C,Titanic
+383,0,3,Mr.,Juho,Tikkanen,male,32,0,0,STON/O 2. 3101293,7.92,S,Titanic
+384,1,1,Mrs.,Alexander,Holverson,female,35,1,0,113789,31.0,S,Titanic
+385,0,3,Mr.,Vasil,Plotcharsky,male,28,0,0,349227,7.9,S,Titanic
+386,0,2,Mr.,Charles,Davies,male,22,0,0,S.O.C. 14879,31.0,S,Titanic
+387,0,3,Master.,Sidney,Goodwin,male,22,2,0,CA 2144,31.0,S,Titanic
+388,1,2,Miss.,Kate,Buss,female,35,0,0,27849,13.0,S,Titanic
+389,0,3,Mr.,Matthew,Sadlier,male,28,0,0,367655,7.9,Q,Titanic
+390,1,2,Miss.,Bertha,Lehmann,female,22,0,0,SC 1748,12.0,C,Titanic
+391,1,1,Mr.,William,Carter,male,35,1,0,113760,31.0,S,Titanic
+392,1,3,Mr.,Carl,Jansson,male,22,0,0,350034,7.9,S,Titanic
+393,0,3,Mr.,Johan,Gustafsson,male,28,2,0,3101277,7.92,S,Titanic
+394,1,1,Miss.,Marjorie,Newell,female,23,1,0,35273,31.0,C,Titanic
+395,1,3,Mrs.,Hjalmar,Sandstrom,female,24,0,0,PP 9549,16.7,S,Titanic
+396,0,3,Mr.,Erik,Johansson,male,22,0,0,350052,7.9,S,Titanic
+397,0,3,Miss.,Elina,Olsson,female,31,0,0,350407,7.9,S,Titanic
+398,0,2,Mr.,Peter,McKane,male,35,0,0,28403,26.0,S,Titanic
+399,0,2,Dr.,Alfred,Pain,male,23,0,0,244278,10.5,S,Titanic
+400,1,2,Mrs.,William,Trout,female,28,0,0,240929,12.65,S,Titanic
+401,1,3,Mr.,Juha,Niskanen,male,35,0,0,STON/O 2. 3101289,7.92,S,Titanic
+402,0,3,Mr.,John,Adams,male,26,0,0,341826,8.05,S,Titanic
+403,0,3,Miss.,Mari,Jussila,female,22,1,0,4137,9.82,S,Titanic
+404,0,3,Mr.,Pekka,Hakkarainen,male,28,1,0,STON/O2. 3101279,15.85,S,Titanic
+405,0,3,Miss.,Marija,Oreskovic,female,22,0,0,315096,8.66,S,Titanic
+406,0,2,Mr.,Shadrach,Gale,male,34,1,0,28664,21.0,S,Titanic
+407,0,3,Mr.,Carl/Charles,Widegren,male,35,0,0,347064,7.9,S,Titanic
+408,1,2,Master.,William,Richards,male,22,1,0,29106,18.75,S,Titanic
+409,0,3,Mr.,Hans,Birkeland,male,22,0,0,312992,7.9,S,Titanic
+410,0,3,Miss.,Ida,Lefebre,female,28,2,0,4133,25.47,S,Titanic
+411,0,3,Mr.,Todor,Sdycoff,male,28,0,0,349222,7.9,S,Titanic
+412,0,3,Mr.,Henry,Hart,male,28,0,0,394140,7.9,Q,Titanic
+413,1,1,Miss.,Daisy,Minahan,female,33,1,0,19928,31.0,Q,Titanic
+414,0,2,Mr.,Alfred,Cunningham,male,28,0,0,239853,7.9,S,Titanic
+415,1,3,Mr.,Johan,Sundman,male,35,0,0,STON/O 2. 3101269,7.92,S,Titanic
+416,0,3,Mrs.,Thomas,Meek,female,28,0,0,343095,8.05,S,Titanic
+417,1,2,Mrs.,James,Drew,female,34,1,0,28220,31.0,S,Titanic
+418,1,2,Miss.,Lyyli,Silven,female,22,0,0,250652,13.0,S,Titanic
+419,0,2,Mr.,William,Matthews,male,30,0,0,28228,13.0,S,Titanic
+420,0,3,"Impe,",Miss.,Van,female,22,0,0,345773,24.15,S,Titanic
+421,0,3,Mr.,Stanio,Gheorgheff,male,28,0,0,349254,7.9,C,Titanic
+422,0,3,Mr.,David,Charters,male,22,0,0,A/5. 13032,7.9,Q,Titanic
+423,0,3,Mr.,Leo,Zimmerman,male,29,0,0,315082,7.9,S,Titanic
+424,0,3,Mrs.,Ernst,Danbom,female,28,1,0,347080,14.4,S,Titanic
+425,0,3,Mr.,Viktor,Rosblom,male,22,1,0,370129,20.21,S,Titanic
+426,0,3,Mr.,Phillippe,Wiseman,male,28,0,0,A/4. 34244,7.9,S,Titanic
+427,1,2,Mrs.,Charles,Clarke,female,28,1,0,2003,26.0,S,Titanic
+428,1,2,Miss.,Kate,Phillips,female,22,0,0,250655,26.0,S,Titanic
+429,0,3,Mr.,James,Flynn,male,28,0,0,364851,7.9,Q,Titanic
+430,1,3,Mr.,Berk,Pickard,male,32,0,0,SOTON/O.Q. 392078,8.05,S,Titanic
+431,1,1,Mr.,Mauritz,Bjornstrom-Steffansson,male,28,0,0,110564,26.55,S,Titanic
+432,1,3,Mrs.,Percival,Thorneycroft,female,28,1,0,376564,16.1,S,Titanic
+433,1,2,Mrs.,Charles,Louch,female,35,1,0,SC/AH 3085,26.0,S,Titanic
+434,0,3,Mr.,Nikolai,Kallio,male,22,0,0,STON/O 2. 3101274,7.9,S,Titanic
+435,0,1,Mr.,William,Silvey,male,35,1,0,13507,31.0,S,Titanic
+436,1,1,Miss.,Lucile,Carter,female,22,1,0,113760,31.0,S,Titanic
+437,0,3,Miss.,Doolina,Ford,female,22,2,0,W./C. 6608,31.0,S,Titanic
+438,1,2,Mrs.,Sidney,Richards,female,24,2,0,29106,18.75,S,Titanic
+439,0,1,Mr.,Mark,Fortune,male,35,1,0,19950,31.0,S,Titanic
+440,0,2,Mr.,Johan,Kvillner,male,31,0,0,C.A. 18723,10.5,S,Titanic
+441,1,2,Mrs.,Benjamin,Hart,female,35,1,0,F.C.C. 13529,26.25,S,Titanic
+442,0,3,Mr.,Leon,Hampe,male,22,0,0,345769,9.5,S,Titanic
+443,0,3,Mr.,Johan,Petterson,male,25,1,0,347076,7.9,S,Titanic
+444,1,2,Ms.,Encarnacion,Reynaldo,female,28,0,0,230434,13.0,S,Titanic
+445,1,3,Mr.,Bernt,Johannesen-Bratthammer,male,28,0,0,65306,8.11,S,Titanic
+446,1,1,Master.,Washington,Dodge,male,22,0,0,33638,31.0,S,Titanic
+447,1,2,Miss.,Madeleine,Mellinger,female,22,0,0,250644,19.5,S,Titanic
+448,1,1,Mr.,Frederic,Seward,male,34,0,0,113794,26.55,S,Titanic
+449,1,3,Miss.,Marie,Baclini,female,22,2,0,2666,19.26,C,Titanic
+450,1,1,Major.,Arthur,Peuchen,male,35,0,0,113786,30.5,S,Titanic
+451,0,2,Mr.,Edwy,West,male,35,1,0,C.A. 34651,27.75,S,Titanic
+452,0,3,Mr.,Ingvald,Hagland,male,28,1,0,65303,19.97,S,Titanic
+453,0,1,Mr.,Benjamin,Foreman,male,30,0,0,113051,27.75,C,Titanic
+454,1,1,Mr.,Samuel,Goldenberg,male,35,1,0,17453,31.0,C,Titanic
+455,0,3,Mr.,Joseph,Peduzzi,male,28,0,0,A/5 2817,8.05,S,Titanic
+456,1,3,Mr.,Ivan,Jalsevac,male,29,0,0,349240,7.9,C,Titanic
+457,0,1,Mr.,Francis,Millet,male,35,0,0,13509,26.55,S,Titanic
+458,1,1,Mrs.,Frederick,Kenyon,female,28,1,0,17464,31.0,S,Titanic
+459,1,2,Miss.,Ellen,Toomey,female,35,0,0,F.C.C. 13531,10.5,S,Titanic
+460,0,3,Mr.,Maurice,O'Connor,male,28,0,0,371060,7.9,Q,Titanic
+461,1,1,Mr.,Harry,Anderson,male,35,0,0,19952,26.55,S,Titanic
+462,0,3,Mr.,William,Morley,male,34,0,0,364506,8.05,S,Titanic
+463,0,1,Mr.,Arthur,Gee,male,35,2,0,111320,31.0,S,Titanic
+464,0,2,Mr.,Jacob,Milling,male,35,0,0,234360,13.0,S,Titanic
+465,0,3,Mr.,Simon,Maisner,male,28,0,0,A/S 2816,8.05,S,Titanic
+466,0,3,Mr.,Manuel,Goncalves,male,35,0,0,SOTON/O.Q. 3101306,7.9,S,Titanic
+467,0,2,Mr.,William,Campbell,male,28,0,0,239853,7.9,S,Titanic
+468,0,1,Mr.,John,Smart,male,35,0,0,113792,26.55,S,Titanic
+469,0,3,Mr.,James,Scanlan,male,28,0,0,36209,7.9,Q,Titanic
+470,1,3,Miss.,Helene,Baclini,female,28,2,0,2666,19.26,C,Titanic
+471,0,3,Mr.,Arthur,Keefe,male,28,0,0,323592,7.9,S,Titanic
+472,0,3,Mr.,Luka,Cacic,male,35,0,0,315089,8.66,S,Titanic
+473,1,2,Mrs.,Edwy,West,female,33,1,0,C.A. 34651,27.75,S,Titanic
+474,1,2,Mrs.,Amin,Jerwan,female,23,0,0,SC/AH Basle 541,13.79,C,Titanic
+475,0,3,Miss.,Ida,Strandberg,female,22,0,0,7553,9.84,S,Titanic
+476,0,1,Mr.,George,Clifford,male,28,0,0,110465,31.0,S,Titanic
+477,0,2,Mr.,Peter,Renouf,male,34,1,0,31027,21.0,S,Titanic
+478,0,3,Mr.,Lewis,Braund,male,29,1,0,3460,7.9,S,Titanic
+479,0,3,Mr.,Nils,Karlsson,male,22,0,0,350060,7.9,S,Titanic
+480,1,3,Miss.,Hildur,Hirvonen,female,22,0,0,3101298,12.29,S,Titanic
+481,0,3,Master.,Harold,Goodwin,male,22,2,0,CA 2144,31.0,S,Titanic
+482,0,2,Mr.,Anthony,Frost,male,28,0,0,239854,7.9,S,Titanic
+483,0,3,Mr.,Richard,Rouse,male,35,0,0,A/5 3594,8.05,S,Titanic
+484,1,3,Mrs.,(Hedwig),Turkula,female,35,0,0,4134,9.59,S,Titanic
+485,1,1,Mr.,Dickinson,Bishop,male,25,1,0,11967,31.0,C,Titanic
+486,0,3,Miss.,Jeannie,Lefebre,female,28,2,0,4133,25.47,S,Titanic
+487,1,1,Mrs.,Frederick,Hoyt,female,35,1,0,19943,31.0,S,Titanic
+488,0,1,Mr.,Edward,Kent,male,35,0,0,11771,29.7,C,Titanic
+489,0,3,Mr.,Francis,Somerton,male,30,0,0,A.5. 18509,8.05,S,Titanic
+490,1,3,Master.,Eden,Coutts,male,22,1,0,C.A. 37671,31.0,S,Titanic
+491,0,3,Mr.,Konrad,Hagland,male,28,1,0,65304,19.97,S,Titanic
+492,0,3,Mr.,Einar,Windelov,male,22,0,0,SOTON/OQ 3101317,7.9,S,Titanic
+493,0,1,Mr.,Harry,Molson,male,35,0,0,113787,30.5,S,Titanic
+494,0,1,Mr.,Ramon,Artagaveytia,male,35,0,0,PC 17609,31.0,C,Titanic
+495,0,3,Mr.,Edward,Stanley,male,22,0,0,A/4 45380,8.05,S,Titanic
+496,0,3,Mr.,Gerious,Yousseff,male,28,0,0,2627,14.46,C,Titanic
+497,1,1,Miss.,Elizabeth,Eustis,female,35,1,0,36947,31.0,C,Titanic
+498,0,3,Mr.,Frederick,Shellard,male,28,0,0,C.A. 6212,15.1,S,Titanic
+499,0,1,Mrs.,Hudson,Allison,female,25,1,0,113781,31.0,S,Titanic
+500,0,3,Mr.,Olof,Svensson,male,24,0,0,350035,7.9,S,Titanic
+501,0,3,Mr.,Petar,Calic,male,22,0,0,315086,8.66,S,Titanic
+502,0,3,Miss.,Mary,Canavan,female,22,0,0,364846,7.9,Q,Titanic
+503,0,3,Miss.,Bridget,O'Sullivan,female,28,0,0,330909,7.9,Q,Titanic
+504,0,3,Miss.,Kristina,Laitinen,female,35,0,0,4135,9.59,S,Titanic
+505,1,1,Miss.,Roberta,Maioni,female,22,0,0,110152,31.0,S,Titanic
+506,0,1,y,"Castellana,",Penasco,male,22,1,0,PC 17758,31.0,C,Titanic
+507,1,2,Mrs.,Frederick,Quick,female,33,0,0,26360,26.0,S,Titanic
+508,1,1,Mr.,George,Bradley,male,22,0,0,111427,26.55,S,Titanic
+509,0,3,Mr.,Henry,Olsen,male,28,0,0,C 4001,22.52,S,Titanic
+510,1,3,Mr.,Fang,Lang,male,26,0,0,1601,31.0,S,Titanic
+511,1,3,Mr.,Eugene,Daly,male,29,0,0,382651,7.9,Q,Titanic
+512,0,3,Mr.,James,Webber,male,28,0,0,SOTON/OQ 3101316,8.05,S,Titanic
+513,1,1,Mr.,James,McGough,male,35,0,0,PC 17473,26.29,S,Titanic
+514,1,1,Mrs.,Martin,Rothschild,female,35,1,0,PC 17603,31.0,C,Titanic
+515,0,3,Mr.,Satio,Coleff,male,24,0,0,349209,7.9,S,Titanic
+516,0,1,Mr.,William,Walker,male,35,0,0,36967,31.0,S,Titanic
+517,1,2,Mrs.,(Amelia,Lemore,female,34,0,0,C.A. 34260,10.5,S,Titanic
+518,0,3,Mr.,Patrick,Ryan,male,28,0,0,371110,24.15,Q,Titanic
+519,1,2,Mrs.,William,Angle,female,35,1,0,226875,26.0,S,Titanic
+520,0,3,Mr.,Stefo,Pavlovic,male,32,0,0,349242,7.9,S,Titanic
+522,0,3,Mr.,Janko,Vovk,male,22,0,0,349252,7.9,S,Titanic
+523,0,3,Mr.,Sarkis,Lahoud,male,22,0,0,2624,7.9,C,Titanic
+524,1,1,Mrs.,Louis,Hippach,female,35,0,0,111361,31.0,C,Titanic
+525,0,3,Mr.,Fared,Kassem,male,28,0,0,2700,7.9,C,Titanic
+526,0,3,Mr.,James,Farrell,male,28,0,0,367232,7.9,Q,Titanic
+527,1,2,Miss.,Lucy,Ridsdale,female,35,0,0,W./C. 14258,10.5,S,Titanic
+528,0,1,Mr.,John,Farthing,male,28,0,0,PC 17483,31.0,S,Titanic
+529,0,3,Mr.,Johan,Salonen,male,35,0,0,3101296,7.92,S,Titanic
+530,0,2,Mr.,Richard,Hocking,male,23,2,0,29104,11.5,S,Titanic
+531,1,2,Miss.,Phyllis,Quick,female,22,1,0,26360,26.0,S,Titanic
+532,0,3,Mr.,Nakli,Toufik,male,28,0,0,2641,7.9,C,Titanic
+533,0,3,Mr.,Joseph,Elias,male,22,1,0,2690,7.9,C,Titanic
+534,1,3,Mrs.,Catherine,Peter,female,28,0,0,2668,22.36,C,Titanic
+535,0,3,Miss.,Marija,Cacic,female,30,0,0,315084,8.66,S,Titanic
+536,1,2,Miss.,Eva,Hart,female,22,0,0,F.C.C. 13529,26.25,S,Titanic
+537,0,1,Major.,Archibald,Butt,male,35,0,0,113050,26.55,S,Titanic
+538,1,1,Miss.,Bertha,LeRoy,female,30,0,0,PC 17761,31.0,C,Titanic
+539,0,3,Mr.,Samuel,Risien,male,28,0,0,364498,14.5,S,Titanic
+540,1,1,Miss.,Hedwig,Frolicher,female,22,0,0,13568,31.0,C,Titanic
+541,1,1,Miss.,Harriet,Crosby,female,35,0,0,WE/P 5735,31.0,S,Titanic
+542,0,3,Miss.,Ingeborg,Andersson,female,22,2,0,347082,31.0,S,Titanic
+543,0,3,Miss.,Sigrid,Andersson,female,22,2,0,347082,31.0,S,Titanic
+544,1,2,Mr.,Edward,Beane,male,32,1,0,2908,26.0,S,Titanic
+545,0,1,Mr.,Walter,Douglas,male,35,1,0,PC 17761,31.0,C,Titanic
+546,0,1,Mr.,Arthur,Nicholson,male,35,0,0,693,26.0,S,Titanic
+547,1,2,Mrs.,Edward,Beane,female,22,1,0,2908,26.0,S,Titanic
+548,1,2,y,"Manent,",Padro,male,28,0,0,SC/PARIS 2146,13.86,C,Titanic
+549,0,3,Mr.,Frank,Goldsmith,male,33,1,0,363291,20.52,S,Titanic
+550,1,2,Master.,John,Davies,male,22,1,0,C.A. 33112,31.0,S,Titanic
+551,1,1,Mr.,John,Thayer,male,22,0,0,17421,31.0,C,Titanic
+552,0,2,Mr.,Percival,Sharp,male,27,0,0,244358,26.0,S,Titanic
+553,0,3,Mr.,Timothy,O'Brien,male,28,0,0,330979,7.9,Q,Titanic
+554,1,3,Mr.,Fahim,Leeni,male,22,0,0,2620,7.9,C,Titanic
+555,1,3,Miss.,Velin,Ohman,female,22,0,0,347085,7.9,S,Titanic
+556,0,1,Mr.,George,Wright,male,35,0,0,113807,26.55,S,Titanic
+557,1,1,"Gordon,",Lady.,Duff,female,35,1,0,11755,31.0,C,Titanic
+558,0,1,Mr.,Victor,Robbins,male,28,0,0,PC 17757,31.0,C,Titanic
+559,1,1,Mrs.,Emil,Taussig,female,35,1,0,110413,31.0,S,Titanic
+560,1,3,"Messemaeker,",Mrs.,de,female,35,1,0,345572,17.4,S,Titanic
+561,0,3,Mr.,Thomas,Morrow,male,28,0,0,372622,7.9,Q,Titanic
+562,0,3,Mr.,Husein,Sivic,male,35,0,0,349251,7.9,S,Titanic
+563,0,2,Mr.,Robert,Norman,male,28,0,0,218629,13.5,S,Titanic
+564,0,3,Mr.,John,Simmons,male,28,0,0,SOTON/OQ 392082,8.05,S,Titanic
+565,0,3,Miss.,(Marion,Meanwell,female,28,0,0,SOTON/O.Q. 392087,8.05,S,Titanic
+566,0,3,Mr.,Alfred,Davies,male,24,2,0,A/4 48871,24.15,S,Titanic
+567,0,3,Mr.,Ilia,Stoytcheff,male,22,0,0,349205,7.9,S,Titanic
+568,0,3,Mrs.,Nils,Palsson,female,29,0,0,349909,21.08,S,Titanic
+569,0,3,Mr.,Tannous,Doharr,male,28,0,0,2686,7.9,C,Titanic
+570,1,3,Mr.,Carl,Jonsson,male,32,0,0,350417,7.9,S,Titanic
+571,1,2,Mr.,George,Harris,male,35,0,0,S.W./PP 752,10.5,S,Titanic
+572,1,1,Mrs.,Edward,Appleton,female,35,2,0,11769,31.0,S,Titanic
+573,1,1,Mr.,John,Flynn,male,35,0,0,PC 17474,26.39,S,Titanic
+574,1,3,Miss.,Mary,Kelly,female,28,0,0,14312,7.9,Q,Titanic
+575,0,3,Mr.,Alfred,Rush,male,22,0,0,A/4. 20589,8.05,S,Titanic
+576,0,3,Mr.,George,Patchett,male,22,0,0,358585,14.5,S,Titanic
+577,1,2,Miss.,Ethel,Garside,female,34,0,0,243880,13.0,S,Titanic
+578,1,1,Mrs.,William,Silvey,female,35,1,0,13507,31.0,S,Titanic
+579,0,3,Mrs.,Joseph,Caram,female,28,1,0,2689,14.46,C,Titanic
+580,1,3,Mr.,Eiriik,Jussila,male,32,0,0,STON/O 2. 3101286,7.92,S,Titanic
+581,1,2,Miss.,Julie,Christy,female,25,1,0,237789,30.0,S,Titanic
+582,1,1,Mrs.,John,Thayer,female,35,1,0,17421,31.0,C,Titanic
+583,0,2,Mr.,William,Downton,male,35,0,0,28403,26.0,S,Titanic
+584,0,1,Mr.,John,Ross,male,35,0,0,13049,31.0,C,Titanic
+585,0,3,Mr.,Uscher,Paulner,male,28,0,0,3411,8.71,C,Titanic
+586,1,1,Miss.,Ruth,Taussig,female,22,0,0,110413,31.0,S,Titanic
+587,0,2,Mr.,John,Jarvis,male,35,0,0,237565,15.0,S,Titanic
+588,1,1,Mr.,Maxmillian,Frolicher-Stehli,male,35,1,0,13567,31.0,C,Titanic
+589,0,3,Mr.,Eliezer,Gilinski,male,22,0,0,14973,8.05,S,Titanic
+590,0,3,Mr.,Joseph,Murdlin,male,28,0,0,A./5. 3235,8.05,S,Titanic
+591,0,3,Mr.,Matti,Rintamaki,male,35,0,0,STON/O 2. 3101273,7.9,S,Titanic
+592,1,1,Mrs.,Walter,Stephenson,female,35,1,0,36947,31.0,C,Titanic
+593,0,3,Mr.,William,Elsbury,male,35,0,0,A/5 3902,7.9,S,Titanic
+594,0,3,Miss.,Mary,Bourke,female,28,0,0,364848,7.9,Q,Titanic
+595,0,2,Mr.,John,Chapman,male,35,1,0,SC/AH 29037,26.0,S,Titanic
+596,0,3,"Impe,",Mr.,Van,male,35,1,0,345773,24.15,S,Titanic
+597,1,2,Miss.,Jessie,Leitch,female,28,0,0,248727,31.0,S,Titanic
+598,0,3,Mr.,Alfred,Johnson,male,35,0,0,LINE,7.9,S,Titanic
+599,0,3,Mr.,Hanna,Boulos,male,28,0,0,2664,7.9,C,Titanic
+600,1,1,"Gordon,",Sir.,Duff,male,35,1,0,PC 17485,31.0,C,Titanic
+601,1,2,Mrs.,Sidney,Jacobsohn,female,24,2,0,243847,27.0,S,Titanic
+602,0,3,Mr.,Petco,Slabenoff,male,28,0,0,349214,7.9,S,Titanic
+603,0,1,Mr.,Charles,Harrington,male,28,0,0,113796,31.0,S,Titanic
+604,0,3,Mr.,Ernst,Torber,male,35,0,0,364511,8.05,S,Titanic
+605,1,1,Mr.,Harry,Homer,male,35,0,0,111426,26.55,C,Titanic
+606,0,3,Mr.,Edvard,Lindell,male,35,1,0,349910,15.55,S,Titanic
+607,0,3,Mr.,Milan,Karaic,male,30,0,0,349246,7.9,S,Titanic
+608,1,1,Mr.,Robert,Daniel,male,27,0,0,113804,30.5,S,Titanic
+609,1,2,Mrs.,Joseph,Laroche,female,22,1,0,SC/Paris 2123,31.0,C,Titanic
+610,1,1,Miss.,Elizabeth,Shutes,female,35,0,0,PC 17582,31.0,S,Titanic
+611,0,3,Mrs.,Anders,Andersson,female,35,1,0,347082,31.0,S,Titanic
+612,0,3,Mr.,Jose,Jardin,male,28,0,0,SOTON/O.Q. 3101305,7.9,S,Titanic
+613,1,3,Miss.,Margaret,Murphy,female,28,1,0,367230,15.5,Q,Titanic
+614,0,3,Mr.,John,Horgan,male,28,0,0,370377,7.9,Q,Titanic
+615,0,3,Mr.,William,Brocklebank,male,35,0,0,364512,8.05,S,Titanic
+616,1,2,Miss.,Alice,Herman,female,24,1,0,220845,31.0,S,Titanic
+617,0,3,Mr.,Ernst,Danbom,male,34,1,0,347080,14.4,S,Titanic
+618,0,3,Mrs.,William,Lobb,female,26,1,0,A/5. 3336,16.1,S,Titanic
+619,1,2,Miss.,Marion,Becker,female,22,2,0,230136,31.0,S,Titanic
+620,0,2,Mr.,Lawrence,Gavey,male,26,0,0,31028,10.5,S,Titanic
+621,0,3,Mr.,Antoni,Yasbeck,male,27,1,0,2659,14.45,C,Titanic
+622,1,1,Mr.,Edwin,Kimball,male,35,1,0,11753,31.0,S,Titanic
+623,1,3,Mr.,Sahid,Nakid,male,22,1,0,2653,15.74,C,Titanic
+624,0,3,Mr.,Henry,Hansen,male,22,0,0,350029,7.9,S,Titanic
+625,0,3,Mr.,David,Bowen,male,22,0,0,54636,16.1,S,Titanic
+626,0,1,Mr.,Frederick,Sutton,male,35,0,0,36963,31.0,S,Titanic
+627,0,2,Rev.,Charles,Kirkland,male,35,0,0,219533,12.35,Q,Titanic
+628,1,1,Miss.,Gretchen,Longley,female,22,0,0,13502,31.0,S,Titanic
+629,0,3,Mr.,Guentcho,Bostandyeff,male,26,0,0,349224,7.9,S,Titanic
+630,0,3,Mr.,Patrick,O'Connell,male,28,0,0,334912,7.9,Q,Titanic
+631,1,1,Mr.,Algernon,Barkworth,male,35,0,0,27042,30.0,S,Titanic
+632,0,3,Mr.,Johan,Lundahl,male,35,0,0,347743,7.9,S,Titanic
+633,1,1,Dr.,Max,Stahelin-Maeglin,male,32,0,0,13214,30.5,C,Titanic
+634,0,1,Mr.,William,Parr,male,28,0,0,112052,7.9,S,Titanic
+635,0,3,Miss.,Mabel,Skoog,female,22,2,0,347088,27.9,S,Titanic
+636,1,2,Miss.,Mary,Davis,female,28,0,0,237668,13.0,S,Titanic
+637,0,3,Mr.,Antti,Leinonen,male,32,0,0,STON/O 2. 3101292,7.92,S,Titanic
+638,0,2,Mr.,Harvey,Collyer,male,31,1,0,C.A. 31921,26.25,S,Titanic
+639,0,3,Mrs.,Juha,Panula,female,35,0,0,3101295,31.0,S,Titanic
+640,0,3,Mr.,Percival,Thorneycroft,male,28,1,0,376564,16.1,S,Titanic
+641,0,3,Mr.,Hans,Jensen,male,22,0,0,350050,7.9,S,Titanic
+642,1,1,Mlle.,Emma,Sagesser,female,24,0,0,PC 17477,31.0,C,Titanic
+643,0,3,Miss.,Margit,Skoog,female,22,2,0,347088,27.9,S,Titanic
+644,1,3,Mr.,Choong,Foo,male,28,0,0,1601,31.0,S,Titanic
+645,1,3,Miss.,Eugenie,Baclini,female,28,2,0,2666,19.26,C,Titanic
+646,1,1,Mr.,Henry,Harper,male,35,1,0,PC 17572,31.0,C,Titanic
+647,0,3,Mr.,Liudevit,Cor,male,22,0,0,349231,7.9,S,Titanic
+648,1,1,Col.,Oberst,Simonius-Blumer,male,35,0,0,13213,31.0,C,Titanic
+649,0,3,Mr.,Edward,Willey,male,28,0,0,S.O./P.P. 751,7.9,S,Titanic
+650,1,3,Miss.,Amy,Stanley,female,23,0,0,CA. 2314,7.9,S,Titanic
+651,0,3,Mr.,Mito,Mitkoff,male,28,0,0,349221,7.9,S,Titanic
+652,1,2,Miss.,Elsie,Doling,female,22,0,0,231919,23.0,S,Titanic
+653,0,3,Mr.,Johannes,Kalvik,male,22,0,0,8475,8.43,S,Titanic
+654,1,3,Miss.,Hanora,O'Leary,female,28,0,0,330919,7.9,Q,Titanic
+655,0,3,Miss.,Hanora,Hegarty,female,22,0,0,365226,7.9,Q,Titanic
+656,0,2,Mr.,Leonard,Hickman,male,24,2,0,S.O.C. 14879,31.0,S,Titanic
+657,0,3,Mr.,Alexander,Radeff,male,28,0,0,349223,7.9,S,Titanic
+658,0,3,Mrs.,John,Bourke,female,32,1,0,364849,15.5,Q,Titanic
+659,0,2,Mr.,George,Eitemiller,male,23,0,0,29751,13.0,S,Titanic
+660,0,1,Mr.,Arthur,Newell,male,35,0,0,35273,31.0,C,Titanic
+661,1,1,Dr.,Henry,Frauenthal,male,35,2,0,PC 17611,31.0,S,Titanic
+662,0,3,Mr.,Mohamed,Badt,male,35,0,0,2623,7.9,C,Titanic
+663,0,1,Mr.,Edward,Colley,male,35,0,0,5727,25.59,S,Titanic
+664,0,3,Mr.,Peju,Coleff,male,35,0,0,349210,7.9,S,Titanic
+665,1,3,Mr.,Eino,Lindqvist,male,22,1,0,STON/O 2. 3101285,7.92,S,Titanic
+666,0,2,Mr.,Lewis,Hickman,male,32,2,0,S.O.C. 14879,31.0,S,Titanic
+667,0,2,Mr.,Reginald,Butler,male,35,0,0,234686,13.0,S,Titanic
+668,0,3,Mr.,Knud,Rommetvedt,male,28,0,0,312993,7.9,S,Titanic
+669,0,3,Mr.,Jacob,Cook,male,35,0,0,A/5 3536,8.05,S,Titanic
+670,1,1,Mrs.,Elmer,Taylor,female,28,1,0,19996,31.0,S,Titanic
+671,1,2,Mrs.,Thomas,Brown,female,35,1,0,29750,31.0,S,Titanic
+672,0,1,Mr.,Thornton,Davidson,male,31,1,0,F.C. 12750,31.0,S,Titanic
+673,0,2,Mr.,Henry,Mitchell,male,35,0,0,C.A. 24580,10.5,S,Titanic
+674,1,2,Mr.,Charles,Wilhelms,male,31,0,0,244270,13.0,S,Titanic
+675,0,2,Mr.,Ennis,Watson,male,28,0,0,239856,7.9,S,Titanic
+676,0,3,Mr.,Gustaf,Edvardsson,male,22,0,0,349912,7.9,S,Titanic
+677,0,3,Mr.,Frederick,Sawyer,male,28,0,0,342826,8.05,S,Titanic
+678,1,3,Miss.,Anna,Turja,female,22,0,0,4138,9.84,S,Titanic
+225,1,1,Mr.,Frederick,Hoytt,male,35,1,0,19943,31.0,S,Titanic
+680,1,1,Mr.,Thomas,Cardeza,male,35,0,0,PC 17755,31.0,C,Titanic
+681,0,3,Miss.,Katie,Peters,female,28,0,0,330935,8.14,Q,Titanic
+682,1,1,Mr.,Hammad,Hassab,male,27,0,0,PC 17572,31.0,C,Titanic
+683,0,3,Mr.,Thor,Olsvigen,male,22,0,0,6563,9.22,S,Titanic
+684,0,3,Mr.,Charles,Goodwin,male,22,2,0,CA 2144,31.0,S,Titanic
+685,0,2,Mr.,Thomas,Brown,male,35,1,0,29750,31.0,S,Titanic
+686,0,2,Mr.,Joseph,Laroche,male,25,1,0,SC/Paris 2123,31.0,C,Titanic
+687,0,3,Mr.,Jaako,Panula,male,22,2,0,3101295,31.0,S,Titanic
+688,0,3,Mr.,Branko,Dakic,male,22,0,0,349228,10.17,S,Titanic
+689,0,3,Mr.,Eberhard,Fischer,male,22,0,0,350036,7.9,S,Titanic
+690,1,1,Miss.,Georgette,Madill,female,22,0,0,24160,31.0,S,Titanic
+691,1,1,Mr.,Albert,Dick,male,31,1,0,17474,31.0,S,Titanic
+692,1,3,Miss.,Manca,Karun,female,22,0,0,349256,13.42,C,Titanic
+693,1,3,Mr.,Ali,Lam,male,28,0,0,1601,31.0,S,Titanic
+694,0,3,Mr.,Khalil,Saad,male,25,0,0,2672,7.9,C,Titanic
+695,0,1,Col.,John,Weir,male,35,0,0,113800,26.55,S,Titanic
+696,0,2,Mr.,Charles,Chapman,male,35,0,0,248731,13.5,S,Titanic
+697,0,3,Mr.,James,Kelly,male,35,0,0,363592,8.05,S,Titanic
+698,1,3,Miss.,Katherine,Mullens,female,28,0,0,35852,7.9,Q,Titanic
+699,0,1,Mr.,John,Thayer,male,35,1,0,17421,31.0,C,Titanic
+700,0,3,Mr.,Adolf,Humblen,male,35,0,0,348121,7.9,S,Titanic
+701,1,1,Mrs.,John,Astor,female,22,1,0,PC 17757,31.0,C,Titanic
+702,1,1,Mr.,Spencer,Silverthorne,male,35,0,0,PC 17475,26.29,S,Titanic
+703,0,3,Miss.,Saiide,Barbara,female,22,0,0,2691,14.45,C,Titanic
+704,0,3,Mr.,Martin,Gallagher,male,25,0,0,36864,7.9,Q,Titanic
+705,0,3,Mr.,Henrik,Hansen,male,26,1,0,350025,7.9,S,Titanic
+706,0,2,Mr.,Henry,Morley,male,35,0,0,250655,26.0,S,Titanic
+707,1,2,Mrs.,Florence,Kelly,female,35,0,0,223596,13.5,S,Titanic
+708,1,1,Mr.,Edward,Calderhead,male,35,0,0,PC 17476,26.29,S,Titanic
+709,1,1,Miss.,Alice,Cleaver,female,22,0,0,113781,31.0,S,Titanic
+710,1,3,Master.,Halim,Moubarek,male,28,1,0,2661,15.25,C,Titanic
+711,1,1,Mlle.,Berthe,Mayne,female,24,0,0,PC 17482,31.0,C,Titanic
+712,0,1,Mr.,Herman,Klaber,male,28,0,0,113028,26.55,S,Titanic
+713,1,1,Mr.,Elmer,Taylor,male,35,1,0,19996,31.0,S,Titanic
+714,0,3,Mr.,August,Larsson,male,29,0,0,7545,9.48,S,Titanic
+715,0,2,Mr.,Samuel,Greenberg,male,35,0,0,250647,13.0,S,Titanic
+716,0,3,Mr.,Peter,Soholt,male,22,0,0,348124,7.9,S,Titanic
+717,1,1,Miss.,Caroline,Endres,female,35,0,0,PC 17757,31.0,C,Titanic
+718,1,2,Miss.,Edwina,Troutt,female,27,0,0,34218,10.5,S,Titanic
+719,0,3,Mr.,Michael,McEvoy,male,28,0,0,36568,15.5,Q,Titanic
+720,0,3,Mr.,Malkolm,Johnson,male,33,0,0,347062,7.9,S,Titanic
+721,1,2,Miss.,Annie,Harper,female,22,0,0,248727,31.0,S,Titanic
+722,0,3,Mr.,Svend,Jensen,male,22,1,0,350048,7.9,S,Titanic
+723,0,2,Mr.,William,Gillespie,male,34,0,0,12233,13.0,S,Titanic
+724,0,2,Mr.,Henry,Hodges,male,35,0,0,250643,13.0,S,Titanic
+725,1,1,Mr.,Norman,Chambers,male,27,1,0,113806,31.0,S,Titanic
+726,0,3,Mr.,Luka,Oreskovic,male,22,0,0,315094,8.66,S,Titanic
+727,1,2,Mrs.,Peter,Renouf,female,30,2,0,31027,21.0,S,Titanic
+728,1,3,Miss.,Margareth,Mannion,female,28,0,0,36866,7.9,Q,Titanic
+729,0,2,Mr.,Kurt,Bryhl,male,25,1,0,236853,26.0,S,Titanic
+730,0,3,Miss.,Pieta,Ilmakangas,female,25,1,0,STON/O2. 3101271,7.92,S,Titanic
+731,1,1,Miss.,Elisabeth,Allen,female,29,0,0,24160,31.0,S,Titanic
+732,0,3,Mr.,Houssein,Hassan,male,22,0,0,2699,18.79,C,Titanic
+733,0,2,Mr.,Robert,Knight,male,28,0,0,239855,7.9,S,Titanic
+734,0,2,Mr.,William,Berriman,male,23,0,0,28425,13.0,S,Titanic
+735,0,2,Mr.,Moses,Troupiansky,male,23,0,0,233639,13.0,S,Titanic
+736,0,3,Mr.,Leslie,Williams,male,28,0,0,54636,16.1,S,Titanic
+737,0,3,Mrs.,Edward,Ford,female,35,1,0,W./C. 6608,31.0,S,Titanic
+738,1,1,Mr.,Gustave,Lesurer,male,35,0,0,PC 17755,31.0,C,Titanic
+739,0,3,Mr.,Kanio,Ivanoff,male,28,0,0,349201,7.9,S,Titanic
+740,0,3,Mr.,Minko,Nankoff,male,28,0,0,349218,7.9,S,Titanic
+741,1,1,Mr.,Walter,Hawksford,male,28,0,0,16988,30.0,S,Titanic
+742,0,1,Mr.,Tyrell,Cavendish,male,35,1,0,19877,31.0,S,Titanic
+743,1,1,Miss.,Susan,Ryerson,female,22,2,0,PC 17608,31.0,C,Titanic
+744,0,3,Mr.,Neal,McNamee,male,24,1,0,376566,16.1,S,Titanic
+745,1,3,Mr.,Juho,Stranden,male,31,0,0,STON/O 2. 3101288,7.92,S,Titanic
+746,0,1,Capt.,Edward,Crosby,male,35,1,0,WE/P 5735,31.0,S,Titanic
+747,0,3,Mr.,Rossmore,Abbott,male,22,1,0,C.A. 2673,20.25,S,Titanic
+748,1,2,Miss.,Anna,Sinkkonen,female,30,0,0,250648,13.0,S,Titanic
+749,0,1,Mr.,Daniel,Marvin,male,22,1,0,113773,31.0,S,Titanic
+750,0,3,Mr.,Michael,Connaghton,male,31,0,0,335097,7.9,Q,Titanic
+751,1,2,Miss.,Joan,Wells,female,22,1,0,29103,23.0,S,Titanic
+752,1,3,Master.,Meier,Moor,male,22,0,0,392096,12.48,S,Titanic
+753,0,3,"Velde,",Mr.,Vande,male,33,0,0,345780,9.5,S,Titanic
+754,0,3,Mr.,Lalio,Jonkoff,male,23,0,0,349204,7.9,S,Titanic
+755,1,2,Mrs.,Samuel,Herman,female,35,1,0,220845,31.0,S,Titanic
+756,1,2,Master.,Viljo,Hamalainen,male,28,1,0,250649,14.5,S,Titanic
+757,0,3,Mr.,August,Carlsson,male,28,0,0,350042,7.9,S,Titanic
+758,0,2,Mr.,Percy,Bailey,male,22,0,0,29108,11.5,S,Titanic
+759,0,3,Mr.,Thomas,Theobald,male,34,0,0,363294,8.05,S,Titanic
+760,1,1,the,Countess.,Rothes,female,33,0,0,110152,31.0,S,Titanic
+761,0,3,Mr.,John,Garfirth,male,28,0,0,358585,14.5,S,Titanic
+762,0,3,Mr.,Iisakki,Nirva,male,35,0,0,SOTON/O2 3101272,7.9,S,Titanic
+763,1,3,Mr.,Hanna,Barah,male,22,0,0,2663,7.9,C,Titanic
+764,1,1,Mrs.,William,Carter,female,35,1,0,113760,31.0,S,Titanic
+765,0,3,Mr.,Hans,Eklund,male,22,0,0,347074,7.9,S,Titanic
+766,1,1,Mrs.,John,Hogeboom,female,35,1,0,13502,31.0,S,Titanic
+767,0,1,Dr.,Arthur,Brewe,male,28,0,0,112379,31.0,C,Titanic
+768,0,3,Miss.,Mary,Mangan,female,28,0,0,364850,7.9,Q,Titanic
+769,0,3,Mr.,Daniel,Moran,male,28,1,0,371110,24.15,Q,Titanic
+770,0,3,Mr.,Daniel,Gronnestad,male,32,0,0,8471,8.36,S,Titanic
+771,0,3,Mr.,Rene,Lievens,male,24,0,0,345781,9.5,S,Titanic
+772,0,3,Mr.,Niels,Jensen,male,35,0,0,350047,7.9,S,Titanic
+773,0,2,Mrs.,(Mary),Mack,female,35,0,0,S.O./P.P. 3,10.5,S,Titanic
+774,0,3,Mr.,Dibo,Elias,male,28,0,0,2674,7.9,C,Titanic
+775,1,2,Mrs.,Elizabeth,Hocking,female,35,1,0,29105,23.0,S,Titanic
+776,0,3,Mr.,Pehr,Myhrman,male,22,0,0,347078,7.9,S,Titanic
+777,0,3,Mr.,Roger,Tobin,male,28,0,0,383121,7.9,Q,Titanic
+778,1,3,Miss.,Virginia,Emanuel,female,22,0,0,364516,12.48,S,Titanic
+779,0,3,Mr.,Thomas,Kilgannon,male,28,0,0,36865,7.9,Q,Titanic
+780,1,1,Mrs.,Edward,Robert,female,35,0,0,24160,31.0,S,Titanic
+781,1,3,Miss.,Banoura,Ayoub,female,22,0,0,2687,7.9,C,Titanic
+782,1,1,Mrs.,Albert,Dick,female,22,1,0,17474,31.0,S,Titanic
+783,0,1,Mr.,Milton,Long,male,29,0,0,113501,30.0,S,Titanic
+784,0,3,Mr.,Andrew,Johnston,male,28,1,0,W./C. 6607,23.45,S,Titanic
+785,0,3,Mr.,William,Ali,male,25,0,0,SOTON/O.Q. 3101312,7.9,S,Titanic
+786,0,3,Mr.,Abraham,Harmer,male,25,0,0,374887,7.9,S,Titanic
+787,1,3,Miss.,Anna,Sjoblom,female,22,0,0,3101265,7.9,S,Titanic
+788,0,3,Master.,George,Rice,male,22,2,0,382652,29.12,Q,Titanic
+789,1,3,Master.,Bertram,Dean,male,22,1,0,C.A. 2315,20.58,S,Titanic
+790,0,1,Mr.,Benjamin,Guggenheim,male,35,0,0,PC 17593,31.0,C,Titanic
+791,0,3,Mr.,Andrew,Keane,male,28,0,0,12460,7.9,Q,Titanic
+792,0,2,Mr.,Alfred,Gaskell,male,22,0,0,239865,26.0,S,Titanic
+793,0,3,Miss.,Stella,Sage,female,28,2,0,CA. 2343,31.0,S,Titanic
+794,0,1,Mr.,William,Hoyt,male,28,0,0,PC 17600,30.7,C,Titanic
+795,0,3,Mr.,Ristiu,Dantcheff,male,25,0,0,349203,7.9,S,Titanic
+796,0,2,Mr.,Richard,Otter,male,35,0,0,28213,13.0,S,Titanic
+797,1,1,Dr.,Alice,Leader,female,35,0,0,17465,25.93,S,Titanic
+798,1,3,Mrs.,Mara,Osman,female,31,0,0,349244,8.68,S,Titanic
+799,0,3,"Shawah,",Mr.,Ibrahim,male,30,0,0,2685,7.9,C,Titanic
+800,0,3,"Impe,",Mrs.,Van,female,30,1,0,345773,24.15,S,Titanic
+801,0,2,Mr.,Martin,Ponesell,male,34,0,0,250647,13.0,S,Titanic
+802,1,2,Mrs.,Harvey,Collyer,female,31,1,0,C.A. 31921,26.25,S,Titanic
+803,1,1,Master.,William,Carter,male,22,1,0,113760,31.0,S,Titanic
+804,1,3,Master.,Assad,Thomas,male,28,0,0,2625,8.52,C,Titanic
+805,1,3,Mr.,Oskar,Hedman,male,27,0,0,347089,7.9,S,Titanic
+806,0,3,Mr.,Karl,Johansson,male,31,0,0,347063,7.9,S,Titanic
+807,0,1,Mr.,Thomas,Andrews,male,35,0,0,112050,7.9,S,Titanic
+808,0,3,Miss.,Ellen,Pettersson,female,22,0,0,347087,7.9,S,Titanic
+809,0,2,Mr.,August,Meyer,male,35,0,0,248723,13.0,S,Titanic
+810,1,1,Mrs.,Norman,Chambers,female,33,1,0,113806,31.0,S,Titanic
+811,0,3,Mr.,William,Alexander,male,26,0,0,3474,7.9,S,Titanic
+812,0,3,Mr.,James,Lester,male,35,0,0,A/4 48871,24.15,S,Titanic
+813,0,2,Mr.,Richard,Slemen,male,35,0,0,28206,10.5,S,Titanic
+814,0,3,Miss.,Ebba,Andersson,female,22,2,0,347082,31.0,S,Titanic
+815,0,3,Mr.,Ernest,Tomlin,male,28,0,0,364499,8.05,S,Titanic
+816,0,1,Mr.,Richard,Fry,male,28,0,0,112058,7.9,S,Titanic
+817,0,3,Miss.,Wendla,Heininen,female,23,0,0,STON/O2. 3101290,7.92,S,Titanic
+818,0,2,Mr.,Albert,Mallet,male,31,1,0,S.C./PARIS 2079,31.0,C,Titanic
+819,0,3,Mr.,John,Holm,male,35,0,0,C 7075,7.9,S,Titanic
+820,0,3,Master.,Karl,Skoog,male,22,2,0,347088,27.9,S,Titanic
+821,1,1,Mrs.,Charles,Hays,female,35,1,0,12749,31.0,S,Titanic
+822,1,3,Mr.,Nikola,Lulic,male,27,0,0,315098,8.66,S,Titanic
+823,0,1,Jonkheer.,John,Reuchlin,male,35,0,0,19972,7.9,S,Titanic
+824,1,3,Mrs.,(Beila),Moor,female,27,0,0,392096,12.48,S,Titanic
+825,0,3,Master.,Urho,Panula,male,22,2,0,3101295,31.0,S,Titanic
+826,0,3,Mr.,John,Flynn,male,28,0,0,368323,7.9,Q,Titanic
+827,0,3,Mr.,Len,Lam,male,28,0,0,1601,31.0,S,Titanic
+828,1,2,Master.,Andre,Mallet,male,22,0,0,S.C./PARIS 2079,31.0,C,Titanic
+829,1,3,Mr.,Thomas,McCormack,male,28,0,0,367228,7.9,Q,Titanic
+830,1,1,Mrs.,George,Stone,female,35,0,0,113572,31.0,S,Titanic
+831,1,3,Mrs.,Antoni,Yasbeck,female,22,1,0,2659,14.45,C,Titanic
+832,1,2,Master.,George,Richards,male,28,1,0,29106,18.75,S,Titanic
+833,0,3,Mr.,Amin,Saad,male,28,0,0,2671,7.9,C,Titanic
+834,0,3,Mr.,Albert,Augustsson,male,23,0,0,347468,7.9,S,Titanic
+835,0,3,Mr.,Owen,Allum,male,22,0,0,2223,8.3,S,Titanic
+836,1,1,Miss.,Sara,Compton,female,35,1,0,PC 17756,31.0,C,Titanic
+837,0,3,Mr.,Jakob,Pasic,male,22,0,0,315097,8.66,S,Titanic
+838,0,3,Mr.,Maurice,Sirota,male,28,0,0,392092,8.05,S,Titanic
+839,1,3,Mr.,Chang,Chip,male,32,0,0,1601,31.0,S,Titanic
+840,1,1,Mr.,Pierre,Marechal,male,28,0,0,11774,29.7,C,Titanic
+841,0,3,Mr.,Ilmari,Alhomaki,male,22,0,0,SOTON/O2 3101287,7.92,S,Titanic
+842,0,2,Mr.,Thomas,Mudd,male,22,0,0,S.O./P.P. 3,10.5,S,Titanic
+843,1,1,Miss.,Augusta,Serepeca,female,30,0,0,113798,31.0,C,Titanic
+844,0,3,Mr.,Peter,Lemberopolous,male,28,0,0,2683,7.9,C,Titanic
+845,0,3,Mr.,Jeso,Culumovic,male,22,0,0,315090,8.66,S,Titanic
+846,0,3,Mr.,Anthony,Abbing,male,35,0,0,C.A. 5547,7.9,S,Titanic
+847,0,3,Mr.,Douglas,Sage,male,28,2,0,CA. 2343,31.0,S,Titanic
+848,0,3,Mr.,Marin,Markoff,male,35,0,0,349213,7.9,C,Titanic
+849,0,2,Rev.,John,Harper,male,28,0,0,248727,31.0,S,Titanic
+850,1,1,Mrs.,Samuel,Goldenberg,female,28,1,0,17453,31.0,C,Titanic
+851,0,3,Master.,Sigvard,Andersson,male,22,2,0,347082,31.0,S,Titanic
+852,0,3,Mr.,Johan,Svensson,male,35,0,0,347060,7.9,S,Titanic
+853,0,3,Miss.,Nourelain,Boulos,female,22,1,0,2678,15.25,C,Titanic
+854,1,1,Miss.,Mary,Lines,female,22,0,0,PC 17592,31.0,S,Titanic
+855,0,2,Mrs.,Ernest,Carter,female,35,1,0,244252,26.0,S,Titanic
+856,1,3,Mrs.,Sam,Aks,female,22,0,0,392091,9.35,S,Titanic
+857,1,1,Mrs.,George,Wick,female,35,1,0,36928,31.0,S,Titanic
+858,1,1,Mr.,Peter,Daly,male,35,0,0,113055,26.55,S,Titanic
+859,0,3,Mrs.,Solomon,Baclini,female,24,0,0,2666,19.26,C,Titanic
+860,0,3,Mr.,Raihed,Razi,male,28,0,0,2629,7.9,C,Titanic
+861,0,3,Mr.,Claus,Hansen,male,35,2,0,350026,14.11,S,Titanic
+862,0,2,Mr.,Frederick,Giles,male,22,1,0,28134,11.5,S,Titanic
+863,1,1,Mrs.,Frederick,Swift,female,35,0,0,17466,25.93,S,Titanic
+864,0,3,Miss.,Dorothy,Sage,female,28,2,0,CA. 2343,31.0,S,Titanic
+865,0,2,Mr.,John,Gill,male,24,0,0,233866,13.0,S,Titanic
+866,1,2,Mrs.,(Karolina),Bystrom,female,35,0,0,236852,13.0,S,Titanic
+867,1,2,y,"More,",Duran,female,27,1,0,SC/PARIS 2149,13.86,C,Titanic
+868,0,1,Mr.,Washington,Roebling,male,31,0,0,PC 17590,31.0,S,Titanic
+869,0,3,"Melkebeke,",Mr.,van,male,28,0,0,345777,9.5,S,Titanic
+870,1,3,Master.,Harold,Johnson,male,22,1,0,1601,11.13,S,Titanic
+871,0,3,Mr.,Cerin,Balkic,male,26,0,0,349248,7.9,S,Titanic
+872,1,1,Mrs.,Richard,Beckwith,female,35,1,0,11751,31.0,S,Titanic
+873,0,1,Mr.,Frans,Carlsson,male,33,0,0,695,7.9,S,Titanic
+874,0,3,"Cruyssen,",Mr.,Vander,male,35,0,0,345765,9.0,S,Titanic
+875,1,2,Mrs.,Samuel,Abelson,female,28,1,0,P/PP 3381,24.0,C,Titanic
+876,1,3,Miss.,Adele,Najib,female,22,0,0,2667,7.9,C,Titanic
+877,0,3,Mr.,Alfred,Gustafsson,male,22,0,0,7534,9.85,S,Titanic
+878,0,3,Mr.,Nedelio,Petroff,male,22,0,0,349212,7.9,S,Titanic
+879,0,3,Mr.,Kristo,Laleff,male,28,0,0,349217,7.9,S,Titanic
+880,1,1,Mrs.,Thomas,Potter,female,35,0,0,11767,31.0,C,Titanic
+881,1,2,Mrs.,William,Shelley,female,25,0,0,230433,26.0,S,Titanic
+882,0,3,Mr.,Johann,Markun,male,33,0,0,349257,7.9,S,Titanic
+883,0,3,Miss.,Gerda,Dahlberg,female,22,0,0,7552,10.52,S,Titanic
+884,0,2,Mr.,Frederick,Banfield,male,28,0,0,C.A./SOTON 34068,10.5,S,Titanic
+885,0,3,Mr.,Henry,Sutehall,male,25,0,0,SOTON/OQ 392076,7.9,S,Titanic
+886,0,3,Mrs.,William,Rice,female,35,0,0,382652,29.12,Q,Titanic
+887,0,2,Rev.,Juozas,Montvila,male,27,0,0,211536,13.0,S,Titanic
+888,1,1,Miss.,Margaret,Graham,female,22,0,0,112053,30.0,S,Titanic
+889,0,3,Miss.,Catherine,Johnston,female,28,1,0,W./C. 6607,23.45,S,Titanic
+890,1,1,Mr.,Karl,Behr,male,26,0,0,111369,30.0,C,Titanic
+891,0,3,Mr.,Patrick,Dooley,male,32,0,0,370376,7.9,Q,Titanic
+1000,1,1,Frederick,Maxfield,Mr.,male,35,1,0,19943,31.0,S,Titanic
+1143,1,3,Miss.,Marguerite,Sandstrom,female,22,1,0,PP 9549,16.7,S,Titanic
+-12,0,3,Miss.,Hulda,Vestrom,female,22,0,0,350406,7.9,S,Titanic
