@@ -1,5 +1,8 @@
 # Data Mining Titanic
 
+## Tutorial
+https://drive.google.com/drive/u/1/my-drive
+
 ## Data Cleaning
 https://nbviewer.org/github/andywoww/Data-Mining-Titanic/blob/main/Data%20Cleaning_Dandy%20Wibowo.ipynb
 
