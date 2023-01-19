@@ -5,3 +5,9 @@ https://nbviewer.org/github/andywoww/Data-Mining-Titanic/blob/main/Data%20Cleani
 
 ## Data Visualization
 https://nbviewer.org/github/andywoww/Data-Mining-Titanic/blob/main/Data%20Visualization.ipynb
+
+## Orange Data Mining
+Please download file "FinalProject_Data Mining.ows"
+
+Best Regards,
+Dandy Wibowo
