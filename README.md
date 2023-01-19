@@ -9,5 +9,8 @@ https://nbviewer.org/github/andywoww/Data-Mining-Titanic/blob/main/Data%20Visual
 ## Orange Data Mining
 Please download file "FinalProject_Data Mining.ows"
 
+## Result
+https://github.com/andywoww/Data-Mining-Titanic/blob/main/The%20Goals.pdf
+
 Best Regards,
 Dandy Wibowo
