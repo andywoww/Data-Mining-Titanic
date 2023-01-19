@@ -1,7 +1,7 @@
 # Data Mining Titanic
 
 ## Tutorial
-https://drive.google.com/drive/u/1/my-drive
+https://drive.google.com/file/d/1HpVFK8FPKM_joyFNgwvnFdSCwEAMnr1Y/view?usp=sharing
 
 ## Data Cleaning
 https://nbviewer.org/github/andywoww/Data-Mining-Titanic/blob/main/Data%20Cleaning_Dandy%20Wibowo.ipynb
@@ -13,7 +13,7 @@ https://nbviewer.org/github/andywoww/Data-Mining-Titanic/blob/main/Data%20Visual
 Please download file "FinalProject_Data Mining.ows"
 
 ## Result
-https://github.com/andywoww/Data-Mining-Titanic/blob/main/The%20Goals.pdf
+https://drive.google.com/file/d/14gHwJXHriv8IqSVG7lwePK2s0OwPq2bc/view?usp=sharing
 
 Best Regards,
 Dandy Wibowo
